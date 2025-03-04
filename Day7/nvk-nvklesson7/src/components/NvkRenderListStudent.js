@@ -5,7 +5,7 @@ class NvkRenderListStudent extends Component {
         super(props);
         this.state = {
             NvkStudents:[
-                {tcvId:"SV001",NvkName:"Trịnh Văn Chung", NvkAge:45, NvkClass:"K23CNT1"},
+                {tcvId:"SV001",NvkName:"Nguyễn Vũ Kiên", NvkAge:45, NvkClass:"K23CNT1"},
                 {tcvId:"SV002",NvkName:"Nguyễn Quang A", NvkAge:22, NvkClass:"K23CNT1"},
                 {tcvId:"SV003",NvkName:"Nguyễn Quang B", NvkAge:21, NvkClass:"K23CNT1"},
                 {tcvId:"SV004",NvkName:"Nguyễn Quang C", NvkAge:23, NvkClass:"K23CNT1"},
